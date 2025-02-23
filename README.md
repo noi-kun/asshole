@@ -1,0 +1,2 @@
+# asshole
+terukote first project
